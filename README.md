@@ -15,4 +15,5 @@
 
 
 ![Lexer](https://img.shields.io/badge/Lexer-working-008000?style=for-the-badge&logo=github&logoColor=white)
+![Sintatico](https://img.shields.io/badge/Lexer-working-008000?style=for-the-badge&logo=github&logoColor=white)
 

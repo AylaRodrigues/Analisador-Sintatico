@@ -14,7 +14,5 @@
 * [Analisador Semântico]()
 
 
-[![Download](https://img.shields.io/badge/Download-008000?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AylaRodrigues/Analisador-Sintatico/archive/refs/heads/main.zip)
-
 ![Lexer](https://img.shields.io/badge/Lexer-working-008000?style=for-the-badge&logo=github&logoColor=white)
 

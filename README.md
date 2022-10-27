@@ -11,7 +11,7 @@
 * [Compilador Completo](https://github.com/AylaRodrigues/Compiladores)
 * [Analisador Léxico](https://github.com/AylaRodrigues/Analisador-Lexico)
 * [Analisador Sintático](https://github.com/AylaRodrigues/Analisador-Sintatico)
-* [Analisador Semântico]()
+* [Analisador Semântico](https://github.com/AylaRodrigues/Analisador-Semantico)
 
 
 ![Lexer](https://img.shields.io/badge/Lexer-working-008000?style=for-the-badge&logo=github&logoColor=white)
